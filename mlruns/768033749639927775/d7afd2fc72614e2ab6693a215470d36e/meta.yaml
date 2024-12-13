@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/768033749639927775/d7afd2fc72614e2ab6693a215470d36e/artifacts
+end_time: 1734110546985
+entry_point_name: ''
+experiment_id: '768033749639927775'
+lifecycle_stage: active
+run_id: d7afd2fc72614e2ab6693a215470d36e
+run_name: casual-lark-401
+run_uuid: d7afd2fc72614e2ab6693a215470d36e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734110546904
+status: 3
+tags: []
+user_id: Lenovo

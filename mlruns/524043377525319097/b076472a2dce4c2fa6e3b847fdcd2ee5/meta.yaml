@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524043377525319097/b076472a2dce4c2fa6e3b847fdcd2ee5/artifacts
+end_time: 1734104972274
+entry_point_name: ''
+experiment_id: '524043377525319097'
+lifecycle_stage: active
+run_id: b076472a2dce4c2fa6e3b847fdcd2ee5
+run_name: caring-bee-284
+run_uuid: b076472a2dce4c2fa6e3b847fdcd2ee5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734104965098
+status: 3
+tags: []
+user_id: Lenovo

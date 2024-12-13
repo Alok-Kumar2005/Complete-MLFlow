@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7fdc873e0f974bf4baa3d8b9af7488be/artifacts
+end_time: 1734099631825
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7fdc873e0f974bf4baa3d8b9af7488be
+run_name: luxuriant-seal-128
+run_uuid: 7fdc873e0f974bf4baa3d8b9af7488be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734099631520
+status: 3
+tags: []
+user_id: Lenovo

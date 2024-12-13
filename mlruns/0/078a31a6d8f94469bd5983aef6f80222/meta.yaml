@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/078a31a6d8f94469bd5983aef6f80222/artifacts
+end_time: 1734099525604
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 078a31a6d8f94469bd5983aef6f80222
+run_name: adorable-snail-524
+run_uuid: 078a31a6d8f94469bd5983aef6f80222
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734099524741
+status: 4
+tags: []
+user_id: Lenovo

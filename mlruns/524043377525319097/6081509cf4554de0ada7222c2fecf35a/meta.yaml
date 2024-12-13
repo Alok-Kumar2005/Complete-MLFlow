@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/524043377525319097/6081509cf4554de0ada7222c2fecf35a/artifacts
+end_time: 1734102825140
+entry_point_name: ''
+experiment_id: '524043377525319097'
+lifecycle_stage: active
+run_id: 6081509cf4554de0ada7222c2fecf35a
+run_name: funny-gull-431
+run_uuid: 6081509cf4554de0ada7222c2fecf35a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734102824808
+status: 3
+tags: []
+user_id: Lenovo

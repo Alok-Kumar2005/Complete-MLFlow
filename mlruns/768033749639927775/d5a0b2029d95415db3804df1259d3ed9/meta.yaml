@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/768033749639927775/d5a0b2029d95415db3804df1259d3ed9/artifacts
+end_time: 1734110546014
+entry_point_name: ''
+experiment_id: '768033749639927775'
+lifecycle_stage: active
+run_id: d5a0b2029d95415db3804df1259d3ed9
+run_name: gifted-gnat-105
+run_uuid: d5a0b2029d95415db3804df1259d3ed9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734110545884
+status: 3
+tags: []
+user_id: Lenovo

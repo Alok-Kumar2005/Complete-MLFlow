@@ -1,0 +1,15 @@
+artifact_uri: file:C:/Users/Lenovo/MLOPS/Complete-MLFlow/breat_cancer-rf-hp/0/0067c297f9ec43bda59f3c0cfb0a6e19/artifacts
+end_time: 1734109897245
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0067c297f9ec43bda59f3c0cfb0a6e19
+run_name: bald-slug-242
+run_uuid: 0067c297f9ec43bda59f3c0cfb0a6e19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734109890412
+status: 3
+tags: []
+user_id: Lenovo
